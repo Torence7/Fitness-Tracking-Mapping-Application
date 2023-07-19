@@ -1,2 +1,2 @@
 # Fitness Tracking and Mapping Application
-Leaflet API Frontend Project HTML/CSS/Javascript
+Leaflet API Project HTML/CSS/Javascript
